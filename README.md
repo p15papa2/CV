@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## George Papafilippou
 
 You can use the [editor on GitHub](https://github.com/p15papa2/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

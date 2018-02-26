@@ -3,9 +3,11 @@
 Graduated from Anatolia College of Thessaloniki. <br/>
 Currently studying Science of Informatics at Ionian Univercity. <br/>
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+General knowledges at html, css, c++, java <br/>
+Professional knowledge of usic adobe suite (Illustrator, Photoshop, Photoshop Lightroom, Premiere, After Effects) <br/>
+
 
 ```markdown
 Syntax highlighted code block

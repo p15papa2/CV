@@ -10,27 +10,9 @@ Professional knowledge of usic adobe suite (Illustrator, Photoshop, Photoshop Li
 
 ### Carrer History
 
-Informatics Technician at [SNFCC](https://www.snfcc.org/?lang=el)
+Informatics Technician at [SNFCC](https://www.snfcc.org/?lang=el) <br/>
 Freelance Photography/Videography with major brands in Corfu.
 
 ### Contact
 
 You can contact me at p15papa2@ionio.gr
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```

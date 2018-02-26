@@ -15,4 +15,4 @@ Freelance Photography/Videography with major brands in Corfu.
 
 ### Contact
 
-You can contact me at p15papa2@ionio.gr
+You can contact me at **p15papa2@ionio.gr**

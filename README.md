@@ -5,9 +5,17 @@ Currently studying Science of Informatics at Ionian Univercity. <br/>
 
 ### Experience
 
-General knowledges at html, css, c++, java <br/>
+General knowledges at html, css, java, c, c++. <br/>
 Professional knowledge of usic adobe suite (Illustrator, Photoshop, Photoshop Lightroom, Premiere, After Effects) <br/>
 
+### Carrer History
+
+Informatics Technician at [SNFCC](https://www.snfcc.org/?lang=el)
+Freelance Photography/Videography with major brands in Corfu.
+
+### Contact
+
+You can contact me at p15papa2@ionio.gr
 
 ```markdown
 Syntax highlighted code block
@@ -26,13 +34,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p15papa2/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact
-
-You can contact me at p15papa2@ionio.gr
